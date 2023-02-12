@@ -398,7 +398,7 @@ header.sticky {
 }
 
 .layer:hover h3 {
-	bottom: 52%;
+	bottom: 72%;
 	opacity: 1;
 }
 
@@ -416,8 +416,15 @@ header.sticky {
 }
 
 .layer:hover h5 {
-	bottom: 48%;
+	bottom: 30%;
 	opacity: 1;
+	padding: 10px 10px;
+}
+
+.layer h5.tech {
+	color: #f75023;
+	top: 70%;
+
 }
 
 .service-content {
